@@ -62,7 +62,7 @@ The dashboard provides a visual summary of all grant activities:
 
 📫 Email: monikasarkar1809@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/monika-sarkar-b86858269
+💼 LinkedIn : https://www.linkedin.com/in/monika-sarkar-b86858269/
 
 Thank You.
 
