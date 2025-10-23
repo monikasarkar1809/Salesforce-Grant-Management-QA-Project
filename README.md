@@ -64,5 +64,6 @@ The dashboard provides a visual summary of all grant activities:
 
 💼 LinkedIn : https://www.linkedin.com/in/monika-sarkar-b86858269/
 
-Thank You.
+🙏 Thank you for visiting my portfolio!
+I’m excited to contribute to building reliable and user-friendly applications by ensuring quality at every step.
 
