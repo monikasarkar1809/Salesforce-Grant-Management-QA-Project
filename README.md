@@ -9,6 +9,8 @@ Monika Sarkar
 This Salesforce QA project demonstrates a complete Grant Management System designed to track grant applications, disbursements, and funding programs.
 The goal is to ensure end-to-end validation of Salesforce workflows, field relationships, and data integrity — from application submission to fund disbursement and performance tracking.
 
+![image alt](https://github.com/monikasarkar1809/Salesforce-Grant-Management-QA-Project/blob/ab4116894c7d2de7b70e32209ac33b77f71d7489/Screenshot%202025-10-23%20094008.png)
+
  📌 The project covers:
 
 Custom Object creation and field validation
